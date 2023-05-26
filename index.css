@@ -6,12 +6,16 @@ body {
 
 .container {
   width: 300px;
-  margin: 0 auto;
+  margin: auto;
   border-radius: 4px;
   text-align: center;
   background-color: #2b2b2b;
   padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 .buttons button {
   margin: 5px;
